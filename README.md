@@ -9,6 +9,8 @@ For change requests and corrections please log a ticket by [clicking here](https
 
 [Click here to enroll for training on Telemedicine in view of COVID 19](https://TelemedicineSocietyofIndia.github.io/enroll)
 
+The Logo of the Telemedicine Society of India has been uploaded onto this repository only for use in TSI approved projects and artifacts. The Logo is copyright and trademark Telemedicine Society of India.
+
 ### Disclaimer:
 This site is primarily for the dissemination of authenticated collaterals produced by the professionals working under the aegis of the Telemedicine Society of India, and its associates for training of registered medical professionals in the practice of telemedicine (primarily tele consultation). There is no warranty, or liability on the collaterals and artifacts contained herein.
 
